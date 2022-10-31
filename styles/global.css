@@ -1,0 +1,36 @@
+@import "reset.css";
+
+/* Header */
+header {
+    background-color: #000;
+    color: #ffffff;
+    position: fixed;
+    height: 100%;
+}
+
+header nav {
+
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+header nav ul li {
+    padding: 5px;    
+}
+
+header nav ul li a {
+    display: flex;
+    align-items:center;
+}
+
+header nav ul li a span {
+    padding: 0 10px;
+}
+
+header nav ul li a img {
+    width: 20px;
+    height: 20px;
+}
