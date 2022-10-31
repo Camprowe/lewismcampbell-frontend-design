@@ -1,4 +1,9 @@
 @import "reset.css";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;600;800&display=swap');
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
 
 /* Header */
 header {
@@ -9,7 +14,7 @@ header {
 }
 
 header nav {
-
+    padding: 10px;
 }
 
 header nav ul {
@@ -18,7 +23,8 @@ header nav ul {
 }
 
 header nav ul li {
-    padding: 5px;    
+    padding: 10px 0;
+    font-weight: 600; 
 }
 
 header nav ul li a {
@@ -33,4 +39,8 @@ header nav ul li a span {
 header nav ul li a img {
     width: 20px;
     height: 20px;
+}
+
+.brand {
+    font-weight: 800;
 }
