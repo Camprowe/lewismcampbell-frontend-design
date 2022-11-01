@@ -5,10 +5,17 @@ body {
     font-family: 'Noto Sans', sans-serif;
 }
 
+.split-white {
+    border-left: 2px solid #F9F9F9;
+    height: 100%;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
 /* Header */
 header {
-    background-color: #000;
-    color: #ffffff;
+    background-color: #1B2430;
+    color: #F9F9F9;
     position: fixed;
     height: 100%;
 }
@@ -23,8 +30,8 @@ header nav ul {
 }
 
 header nav ul li {
-    padding: 10px 0;
-    font-weight: 600; 
+    padding: 15px 0;
+    font-weight: 400; 
 }
 
 header nav ul li a {
