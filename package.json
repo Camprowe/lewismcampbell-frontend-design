@@ -1,0 +1,25 @@
+{
+  "name": "lewismcampbell-frontend-design",
+  "version": "1.0.0",
+  "description": "[Text in Border](https://css-tricks.com/how-to-add-text-in-borders-using-basic-html-elements/)",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "tailwindcss": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camprowe/lewismcampbell-frontend-design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camprowe/lewismcampbell-frontend-design/issues"
+  },
+  "homepage": "https://github.com/Camprowe/lewismcampbell-frontend-design#readme"
+}
