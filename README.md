@@ -1,3 +1,5 @@
 # lewismcampbell-frontend-design
 
-[Text in Border](https://css-tricks.com/how-to-add-text-in-borders-using-basic-html-elements/)
+Run "npm install" before doing anything.
+
+Run "npm run dev" to build the css files.
