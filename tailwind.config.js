@@ -6,9 +6,12 @@ module.exports = {
       transparent: 'transparent',
       current: 'currentColor',
       'primary': '#FF4500',
+      'primary-tint': '#FF5C20',
       'secondary': '#00BAFF',
+      'secondary-tint': '#20C3FF',
       'dark': '#1B2430',
-      'light': '#F9F9F9'
+      'light': '#F9F9F9',
+      'camprowe': '#6B5ECF'
     },
     extend: {
       fontFamily: {
