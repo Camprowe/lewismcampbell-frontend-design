@@ -629,6 +629,14 @@ video {
   margin-bottom: 0.5rem;
 }
 
+.-mt-5 {
+  margin-top: -1.25rem;
+}
+
+.-mt-6 {
+  margin-top: -1.5rem;
+}
+
 .block {
   display: block;
 }
@@ -1023,6 +1031,11 @@ video {
 .hover\:text-dark:hover {
   --tw-text-opacity: 1;
   color: rgb(27 36 48 / var(--tw-text-opacity));
+}
+
+.hover\:text-primary-tint:hover {
+  --tw-text-opacity: 1;
+  color: rgb(255 92 32 / var(--tw-text-opacity));
 }
 
 .hover\:underline:hover {
