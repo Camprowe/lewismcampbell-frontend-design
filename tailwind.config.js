@@ -11,7 +11,7 @@ module.exports = {
       'secondary-tint': '#20C3FF',
       'dark': '#1B2430',
       'light': '#F9F9F9',
-      'camprowe': '#6B5ECF'
+      'camprowe': '#FF0A0A'
     },
     extend: {
       fontFamily: {
